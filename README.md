@@ -1,0 +1,11 @@
+# Mailjet Template Example
+
+1. Run `npm i`
+2. Create a `.env` file with the following
+```
+MAILJET_API_KEY={MAILJET API KEY}
+MAILJET_SECRET_KEY={MAILJET SECRET KEY}
+SV_EMAIL={EMAIL TO BE SEND FROM}
+SV_NAME={EMAIL NAME}
+TEMPLATE_ID={TEMPLATE ID}
+```
